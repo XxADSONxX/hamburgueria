@@ -1,16 +1,14 @@
 body {
-    background: #4530CC;
-    height: 2564px;
-    width: 100%;
-    top: -845px;
-
+   background-image: url("/hamburgueria/static/app/img/Frame-1-\(2\).jpg");
+    max-height: 2564px;
     font-family: Open Sans;
 
 }
 
 bg1 {
-    background-color: black;
-
+    height: 100%;
+    width: 100%;
+   
 }
 
 button {
